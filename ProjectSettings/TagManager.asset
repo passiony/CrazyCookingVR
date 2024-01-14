@@ -16,6 +16,7 @@ TagManager:
   - BaseTrigger
   - Screen
   - Restart
+  - MealPlate
   layers:
   - Default
   - TransparentFX
@@ -27,8 +28,8 @@ TagManager:
   - PlayerController
   - Floor
   - Grab
-  - 
-  - 
+  - Plate
+  - Ingredient
   - 
   - 
   - 
